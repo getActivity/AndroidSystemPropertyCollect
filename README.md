@@ -115,6 +115,12 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * HarmonyOS 2.0.0
 
+    * [HarmonyOS NEXT（卓易通）](https://zh.wikipedia.org/wiki/HarmonyOS_NEXT)（5.1.x ~ 6.0.x 版本饱和，其他版本稀缺）
+
+        * HarmonyOS NEXT 5.1.0
+
+        * HarmonyOS NEXT 6.0.0
+
     * [HyperOS](https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS)（1.x ~ 2.x 版本饱和，其他版本稀缺）
 
         * HyperOS 2.x
