@@ -97,6 +97,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * FuntouchOS 4.0
 
+        * FuntouchOS 2.6
+
     * [H2OS](https://zh.wikipedia.org/wiki/%E6%B0%A2OS)（数量稀少）
 
         * H2OS 11.1.2.2
@@ -304,6 +306,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
         * realmeUI 3.0
 
     * [RedMagicOS](https://en.wikipedia.org/wiki/Nubia_Technology)（数量稀少）
+
+        * RedMagicOS 10.0.25
 
         * RedMagicOS 10.0.24
 
