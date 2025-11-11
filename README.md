@@ -95,9 +95,9 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
     * [FuntouchOS](https://zh.wikipedia.org/wiki/Funtouch_OS)（数量稀少）
 
-        * FuntouchOS 10
+        * FuntouchOS 10.0
 
-        * FuntouchOS 9
+        * FuntouchOS 9.0
 
         * FuntouchOS 4.0
 
