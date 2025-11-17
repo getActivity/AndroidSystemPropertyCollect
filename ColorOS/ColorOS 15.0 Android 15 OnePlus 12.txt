@@ -1317,7 +1317,8 @@ reboot,54421524]
 [ro.oplus.rsa]: [rsa4-non]
 [ro.oplus.server_url_1]: [https://newds-api-cn-01.allawntech.com/autotime/dateandtime.xml?number=]
 [ro.oplus.server_url_2]: [https://newds-api-cn-02.allawntech.com/autotime/dateandtime.xml?number=]
-[ro.oplus.storage.super_size]: [10925907968]
+[ro.oplus.storage.super_size]: [10925907968
+]
 [ro.oplus.system.camera.flashlight]: [com.oplus.motor.flashlight]
 [ro.oplus.system.camera.name]: [com.oplus.camera]
 [ro.oplus.system_ext_app.hash]: [470a8316e24796cb897e1986f425a0c2]
