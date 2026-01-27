@@ -13,7 +13,9 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * 360UI 3.0
 
-    * [ColorOS](https://zh.wikipedia.org/wiki/ColorOS)（14.x ~ 15.x 版本饱和，其他版本稀缺）
+    * [ColorOS](https://zh.wikipedia.org/wiki/ColorOS)（11.x ~ 16.x 版本饱和，其他版本稀缺）
+
+        * ColorOS 16.0
 
         * ColorOS 15.0
 
