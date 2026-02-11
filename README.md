@@ -263,6 +263,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
     * ObricUI
 
+        * ObricUI 1.8.0.2
+
         * ObricUI 1.1.0.0
 
         * ObricUI 1.0.0.0
