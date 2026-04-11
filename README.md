@@ -59,6 +59,10 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
             * 8.0.0
 
+        * EMUI 4.x
+
+            * 4.0.2
+
     * [EUI](https://baike.baidu.com/item/EUI/17205923#1)（极度稀缺）
 
         * EUI 6.0.030
