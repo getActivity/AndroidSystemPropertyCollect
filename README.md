@@ -321,6 +321,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
     * [realmeUI](https://baike.baidu.com/item/realme%20UI/58770376)（数量稀少）
 
+        * realmeUI 7.0
+
         * realmeUI 6.0
 
         * realmeUI 4.0
