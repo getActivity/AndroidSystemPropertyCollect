@@ -185,6 +185,8 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
         * MifavorUI 10.1
 
+        * MiFavorUI 5.2
+
         * MiFavorUI 4.0
 
     * [MIUI](https://zh.wikipedia.org/wiki/MIUI)（10.x ~ 14.x 版本饱和，其他版本稀缺）
