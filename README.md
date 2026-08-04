@@ -35,6 +35,10 @@ MIUI 12.5.6 Android 11 Xiaomi 9.jpg
 
     * [EMUI](https://zh.wikipedia.org/wiki/EMUI)（8.x ~ 11.x 版本饱和，其他版本稀缺）
 
+        * EMUI 15.x
+
+            * 15.0.0
+
         * EMUI 11.x
 
             * 11.0.0
